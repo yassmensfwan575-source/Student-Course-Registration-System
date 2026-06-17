@@ -96,4 +96,4 @@ which illustrates the relationships between all system classes.
 
 ## Author
 
-Developed as a university Object-Oriented Programming project.
+Yasmin Sfwan
